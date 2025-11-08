@@ -6,6 +6,7 @@ langchain-classic
 langchain-groq
 langchain-huggingface
 sentence-transformers
+langchain-text-splitters
 faiss-cpu
 transformers
 torch
@@ -13,3 +14,4 @@ numpy
 pandas
 PyPDF2
 tiktoken
+pypdf
